@@ -8,7 +8,6 @@ Robot which can submit basic orders in an automated fashion using the TD API
 - [Overview](#overview)
 - [Setup](#setup)
 - [Usage](#usage)
-- [Support These Projects](#support-these-projects)
 
 ## Overview
 
