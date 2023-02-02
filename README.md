@@ -110,4 +110,10 @@ trading_robot = PyRobot(
 For more detailed examples, go to the `trading_robot.py` file to see an example of how to use the library along with all
 the different objects inside.
 
+## Details
+1) Leverage - 30:1
+2) Slippage - NULL
+3) Overnight - 0.1%
+4) Brokerage - 0.2%
+
 
