@@ -1,4 +1,4 @@
-# Trading-Robot-2
+# TDRomers
 Robot which can submit basic orders in an automated fashion using the TD API
 
 # Python Trading Robot
