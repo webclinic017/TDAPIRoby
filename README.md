@@ -110,7 +110,7 @@ trading_robot = PyRobot(
 For more detailed examples, go to the `trading_robot.py` file to see an example of how to use the library along with all
 the different objects inside.
 
-P.S. :- this is just a prototype
+P.S. :- this is just a prototype, and is a state-of-the art system assigned with a patent effective as of 1st February 2023
 
 ## Details
 1) Leverage - 30:1
