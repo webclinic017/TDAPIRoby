@@ -714,3 +714,6 @@ class Portfolio():
         self._stock_frame_daily.create_frame()
 
         return self._stock_frame_daily
+    
+def main():
+  pass
