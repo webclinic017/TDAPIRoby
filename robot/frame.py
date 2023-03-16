@@ -452,3 +452,7 @@ class StockFrame():
         bars = bars_filtered.iloc[-n]
 
         return bars
+    
+    
+def main():
+  pass
