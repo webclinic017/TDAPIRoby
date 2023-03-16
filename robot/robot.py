@@ -1157,3 +1157,6 @@ class PyRobot():
                         positions_lists.append(position_dict)
 
         return positions_lists
+    
+def main():
+  pass
