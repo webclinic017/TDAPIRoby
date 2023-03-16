@@ -861,3 +861,6 @@ class Trade():
                 order['stopPrice'] = round(order['stopPrice'] + last_price, 2)
             elif order['orderType'] == 'LIMIT':
                 order['price'] = round(order['price'] + last_price, 2)
+                
+     def main():
+          pass
