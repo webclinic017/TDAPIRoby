@@ -391,3 +391,6 @@ class OrderStatus():
             return True
         else:
             return False
+        
+def main():
+  pass
