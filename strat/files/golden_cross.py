@@ -39,3 +39,6 @@ class GoldenCross(bt.Strategy):
                     print("Sell {} shares of {} at {}".format(self.size, self.params.ticker, self.data.close[0]))
 
                     self.close()
+                    
+      def main():
+        pass
