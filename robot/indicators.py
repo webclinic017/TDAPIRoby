@@ -1085,3 +1085,6 @@ class Indicators():
   str(n1) + '_' + str(n2) + '_' + str(n3) + '_' + str(n4))  
      df = df.join(KST)  
      return df
+
+def main():
+  pass
