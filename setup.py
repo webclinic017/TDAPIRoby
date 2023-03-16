@@ -71,3 +71,6 @@ setup(
 
     ]
 )
+
+def main():
+  pass
